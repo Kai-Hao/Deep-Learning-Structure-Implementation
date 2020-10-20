@@ -3,4 +3,8 @@
 ---
 ## Convolutional Neural Network
 
-* VGG16
+* VGG16(Classifier)
+
+## Autoencoder
+
+* Autoencoder
